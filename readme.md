@@ -1,9 +1,13 @@
 # Curso de Laravel 5.4 - Aulas 68 a 84
 ## SYS4SOFT (João Ribeiro)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=0T5gM1WRNsY&list=PLXik_5Br-zO893qVjjP7a4qg4NYrl33w1&index=1)
+### Instalação de dependências
 
-### Lista de aulas  
+```bash
+composer install
+```
+
+### Lista de aulas - [Vídeos do curso](https://www.youtube.com/watch?v=0T5gM1WRNsY&list=PLXik_5Br-zO893qVjjP7a4qg4NYrl33w1&index=1)  
 
 Aula 068 – Exercício 2 - Sistema de usuários - Parte 1  
 Aula 069 – Exercício 2 - Sistema de usuários - Parte 2  

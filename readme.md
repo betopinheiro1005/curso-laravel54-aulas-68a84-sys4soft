@@ -1,3 +1,30 @@
+# Curso de Laravel 5.4 - Aulas 68 a 84
+## SYS4SOFT (João Ribeiro)
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=0T5gM1WRNsY&list=PLXik_5Br-zO893qVjjP7a4qg4NYrl33w1&index=1)
+
+### Lista de aulas  
+
+Aula 068 – Exercício 2 - Sistema de usuários - Parte 1  
+Aula 069 – Exercício 2 - Sistema de usuários - Parte 2  
+Aula 070 – Exercício 2 - Sistema de usuários - Parte 3  
+Aula 071 – Exercício 2 - Sistema de usuários - Parte 4  
+Aula 072 – Exercício 2 - Sistema de usuários - Parte 5  
+Aula 073 – Exercício 2 - Sistema de usuários - Parte 6  
+Aula 074 – Exercício 2 - Sistema de usuários - Parte 7  
+Aula 075 – Exercício 2 - Sistema de usuários - Parte 8  
+Aula 076 – Exercício 2 - Sistema de usuários - Parte 9  
+Aula 077 – Exercício 2 - Sistema de usuários - Parte 10  
+Aula 078 – Exercício 2 - Sistema de usuários - Parte 11  
+Aula 079 – Exercício 2 - Sistema de usuários - Parte 12  
+Aula 080 – Exercício 2 - Sistema de usuários - Parte 13  
+Aula 081 – Exercício 2 - Sistema de usuários - Parte 14  
+Aula 082 – Exercício 2 - Sistema de usuários - Parte 15  
+Aula 083 – Exercício 2 - Sistema de usuários - Parte 16  
+Aula 084 – Exercício 2 - Sistema de usuários - Parte 17  
+
+##
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
